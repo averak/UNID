@@ -1,9 +1,9 @@
 package dev.abelab.unid.plugin;
 
+import java.util.List;
+
 import org.mybatis.generator.api.IntrospectedTable;
 import org.mybatis.generator.api.PluginAdapter;
-
-import java.util.List;
 
 /**
  * MyBatis Generatorで生成されるファイル名をカスタマイズするプラグイン
