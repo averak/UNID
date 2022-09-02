@@ -16,8 +16,8 @@
             <property name="allArgsConstructor" value="true"/>
             <property name="noArgsConstructor" value="true"/>
         </plugin>
-        <plugin type="cc.rits.unid.plugin.CustomMapperNamePlugin"/>
-        <plugin type="cc.rits.unid.plugin.IgnoreTablePlugin"/>
+        <plugin type="dev.abelab.unid.plugin.CustomMapperNamePlugin"/>
+        <plugin type="dev.abelab.unid.plugin.IgnoreTablePlugin"/>
 
         <commentGenerator>
             <property name="suppressDate" value="true"/>
