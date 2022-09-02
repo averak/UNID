@@ -3,9 +3,11 @@
 ![CI](https://github.com/averak/unid/workflows/CI/badge.svg)
 ![version](https://img.shields.io/badge/version-1.0.0__SNAPSHOT-yellow.svg)
 
-## 開発
+## 概要
 
 本プロジェクトはUNIDのフロントエンドです。
+
+## 開発
 
 ### 開発環境
 
