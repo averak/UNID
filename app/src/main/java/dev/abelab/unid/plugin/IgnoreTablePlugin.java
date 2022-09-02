@@ -1,12 +1,12 @@
 package dev.abelab.unid.plugin;
 
+import java.util.List;
+
 import org.mybatis.generator.api.GeneratedXmlFile;
 import org.mybatis.generator.api.IntrospectedTable;
 import org.mybatis.generator.api.PluginAdapter;
 import org.mybatis.generator.api.dom.java.Interface;
 import org.mybatis.generator.api.dom.java.TopLevelClass;
-
-import java.util.List;
 
 /**
  * MyBatis Generatorで不要なテーブルを無視するプラグイン
